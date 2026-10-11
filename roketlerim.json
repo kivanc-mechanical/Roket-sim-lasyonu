@@ -1,0 +1,50 @@
+{
+    "Hydra_70_Mk66": {
+        "kalibre_mm": 70.0,
+        "roket_boyu": 1.4,
+        "m_empty": 6.2,
+        "m_propellant_init": 4.0,
+        "v0": 40.0,
+        "thrust_force": 5800.0,
+        "burn_time": 1.1,
+        "yan_dragk": 1.2,
+        "damping_f": 0.002,
+        "induced_drag_k": 0.005
+    },
+    "S_13_Soviet": {
+        "kalibre_mm": 122.0,
+        "roket_boyu": 2.57,
+        "m_empty": 53.0,
+        "m_propellant_init": 16.0,
+        "v0": 30.0,
+        "thrust_force": 18500.0,
+        "burn_time": 1.2,
+        "yan_dragk": 1.2,
+        "damping_f": 0.012,
+        "induced_drag_k": 0.045
+    },
+    "Zuni_127mm": {
+        "kalibre_mm": 127.0,
+        "roket_boyu": 2.78,
+        "m_empty": 25.6,
+        "m_propellant_init": 19.4,
+        "v0": 35.0,
+        "thrust_force": 24000.0,
+        "burn_time": 1.18,
+        "yan_dragk": 1.2,
+        "damping_f": 0.009,
+        "induced_drag_k": 0.032
+    },
+    "S_24B_Soviet": {
+        "kalibre_mm": 240.0,
+        "roket_boyu": 2.33,
+        "m_empty": 162.0,
+        "m_propellant_init": 73.0,
+        "v0": 25.0,
+        "thrust_force": 68000.0,
+        "burn_time": 1.1,
+        "yan_dragk": 1.2,
+        "damping_f": 0.022,
+        "induced_drag_k": 0.065
+    }
+}
